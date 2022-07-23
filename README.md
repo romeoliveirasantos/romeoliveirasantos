@@ -1,6 +1,6 @@
 # Hail!! 👋
 
-👉Sou o Romário Oliveira e você está no meu Github! Bem-vindo!!👈
+👉Sou o Romário Oliveira e você está no meu Github! Bem-vindo(a)!!👈
 
 🟣 Atualmente trabalho como analista de suporte na empresa Zenvia.<br>
 🟣 Estou estudando HTML-CSS-JS com o objetivo de me tornar um desenvolvedor Front-End, <strong>espero que não demore muito</strong> 🤞😅!<br>
