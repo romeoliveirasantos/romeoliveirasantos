@@ -1,8 +1,8 @@
-# Hail!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+# Hail!!
 
 👉Sou o <strong>Romário Oliveira</strong> e você está no meu Github! Bem-vindo(a)!!👈
 
-🟣 Atualmente trabalho como analista de suporte na empresa Zenvia.<br>
+🟣 Atualmente trabalho como analista de suporte.<br>
 🟣 Estou estudando HTML-CSS-JS com o objetivo de me tornar um desenvolvedor Front-End 🤞😅!<br>
 🟣 Aqui você encontrará projetos das tecnologias que irei aprender, tais como: <strong><em>C# - REACT - NODEJS - TYPESCRIPT</em></strong> e muito mais!!<br>
 🟣 Minha cor favorita é a cor <strong>roxa</strong>, logo, você verá um toque de <strong>roxo</strong> em todos os meus projeto.<br>
