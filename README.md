@@ -3,9 +3,11 @@
 👉Sou o <strong>Romário Oliveira</strong> e você está no meu Github! Bem-vindo(a)!!👈
 
 🟣 Atualmente trabalho como analista de suporte na empresa Zenvia.<br>
-🟣 Estou estudando HTML-CSS-JS com o objetivo de me tornar um desenvolvedor Front-End, <strong>espero que não demore muito</strong> 🤞😅!<br>
-🟣 Aqui você encontrará projetos das tecnologias que irei aprender, tais como: JS - REACT - NODEJS - TYPESCRIPT e muito mais!!<br>
-🟣 Minha cor favorita é a cor <strong>roxa</strong>, logo, você verá um toque de <strong>roxo</strong> em todos os meus projetos, não se assuste 😁!<br><br>
+🟣 Estou estudando HTML-CSS-JS com o objetivo de me tornar um desenvolvedor Front-End 🤞😅!<br>
+🟣 Aqui você encontrará projetos das tecnologias que irei aprender, tais como: <strong><em>C# - REACT - NODEJS - TYPESCRIPT</em></strong> e muito mais!!<br>
+🟣 Minha cor favorita é a cor <strong>roxa</strong>, logo, você verá um toque de <strong>roxo</strong> em todos os meus projeto.<br>
+
+<div align="right"><p>Este é o <strong><em>Roxinho</em></strong>, meu <strong><em>Gengar</em></strong> virtual!</p> <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif"></img></div>
 
 <div align="center">
   <a href="https://github.com/romeoliveirasantos">
