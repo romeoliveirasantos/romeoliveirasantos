@@ -5,10 +5,10 @@
 🟣 Atualmente trabalho como analista de suporte técnico.<br>
 🟣 Estou estudando HTML-CSS-JS com o objetivo de me tornar um desenvolvedor Front-End/Game Developer 🤞😅!<br>
 🟣 Em pararelo estudando a engine UNITY com o objetivo de criar games.<br>
-🟣 Aqui você encontrará projetos das tecnologias que irei aprender, tais como: <strong><em>C# - REACT - NODEJS - TYPESCRIPT</em></strong> e muito mais!!<br>
+🟣 Estou estudando: <strong><em>C# - REACT - NODEJS - TYPESCRIPT</em></strong><br>
 🟣 Minha cor favorita é a cor <strong>roxa</strong>, logo, você verá um toque de <strong>roxo</strong> em todos os meus projeto.<br>
 
-<div align="right"><p>Este é o <strong><em>Roxinho</em></strong>, meu <strong><em>Gengar</em></strong> virtual!</p> <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif"></img></div>
+<div align="right"><p> <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif"></img></div>
 
 <div align="center">
   <a href="https://github.com/romeoliveirasantos">
