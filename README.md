@@ -3,8 +3,8 @@
 👉Sou o <strong>Romário Oliveira</strong> e você está no meu Github! Bem-vindo(a)!!👈
 
 🟣 Atualmente trabalho como Desenvolvedor de operações <strong>back-end</strong> - stack: JS|C#|DEVOPS|MONGODB.<br>
-🟣 Estou estudando HTML-CSS-JS<br>
-🟣 Em pararelo estudando a engine UNITY + C# com o objetivo de desenvolver games.<br>
+🟣 Estudando HTML-CSS-JS<br>
+🟣 Em pararelo, estudando a engine UNITY + C# com o objetivo de desenvolver games.<br>
 🟣 Minha cor favorita é a cor <strong>roxa</strong>, logo, você verá um toque de <strong>roxo</strong> em todos os meus projeto.<br>
 
 <div align="right"><p> <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif"></img></div>
