@@ -3,7 +3,7 @@
 👉Sou o <strong>Romário Oliveira</strong> e você está no meu Github! Bem-vindo(a)!!👈
 
 🟣 Atualmente trabalho como Desenvolvedor de operações <strong>back-end</strong> - stack: JS|C#|DEVOPS|MONGODB.<br>
-🟣 Estudando HTML-CSS-JS<br>
+🟣 Estudando HTML-CSS-JS-NODEJS<br>
 🟣 Em pararelo, estudando a engine UNITY + C# com o objetivo de desenvolver games.<br>
 🟣 Minha cor favorita é a cor <strong>roxa</strong>, logo, você verá um toque de <strong>roxo</strong> em todos os meus projeto.<br>
 
