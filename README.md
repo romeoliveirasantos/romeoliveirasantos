@@ -4,8 +4,8 @@
 
 🟣 Atualmente trabalho como Desenvolvedor de operações <strong>back-end</strong> JS - C# - MONGODB - DEVOPS.🟣<br><br>
 🟣 Estudando HTML-CSS-JS-NODE.JS🟣<br><br>
-🟣 Em pararelo, estudando a engine UNITY + C# com o objetivo de desenvolver games.🟣<br><br>
-🟣 Minha cor favorita é a cor <strong><span style="color:purple;">roxa</span></strong>, logo, você verá um toque de <strong>roxo</strong> em todos os meus projetos.🟣<br><br>
+🟣 Em pararelo, estudando a engine UNITY + C#.🟣<br><br>
+<!--🟣 Minha cor favorita é a cor <strong><span style="color:purple;">roxa</span></strong>, logo, você verá um toque de <strong>roxo</strong> em todos os meus projetos.🟣<br><br>-->
 </div>
 
 
