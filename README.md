@@ -27,10 +27,8 @@ I'm glad you're here, and I invite you to explore some of my projects.
 Feel free!
 <!-- <div align="right"><p> <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif"></img></div> -->
 ##
-<br><br>
+<br>
 <div align="center">
-  <a href="https://github.com/romeoliveirasantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romeoliveirasantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeoliveirasantos&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
