@@ -1,16 +1,33 @@
 <h1 align="center">Console.log("Hello, World!")</h1> 
-<div style="display: inline_block;" align="center">
-  👉Sou o <strong>Romário Oliveira</strong> e você está no meu Github! Bem-vindo(a)!!👈 <br><br>
-
-🟣 Atualmente trabalho como Desenvolvedor de operações <strong>back-end</strong> JS - C# - MONGODB - DEVOPS.🟣<br><br>
-🟣 Estudando HTML-CSS-JS-NODE-REACT🟣<br><br>
-🟣 Em pararelo, estudando a engine UNITY + C#.🟣<br><br>
-<!--🟣 Minha cor favorita é a cor <strong><span style="color:purple;">roxa</span></strong>, logo, você verá um toque de <strong>roxo</strong> em todos os meus projetos.🟣<br><br>-->
-</div>
 
 
+## Hello, I'm **Romário Oliveira** and you're in my space on Github!
+
+## Personal information:
+* **Name**: Romário Oliveira
+* **Age**: 29y
+* **City**: São Paulo - SP
+* **Country**: Brazil
+* **Stack**: Javascript - ReactJs - Bootstrap - NodeJs - MongoDB
+
+## Curiosities about me:
+
+* I currently live in São Paulo - SP, work as a back-end developer since may/2023, and am pursuing a degree in systems analysis and development.
+
+* I'm 29 years old, originally from Esplanada - Bahia, but I've been living in São Paulo for over 24 years.
+
+* I love PixelArt, and my major life goal is to create a PixelArt game. I'm studying for that...
+  
+* I am learning C# to develop games in the Unity engine.
+
+* Furthermore, I'm studying JavaScript and its frameworks.<br><br>
+
+I'm glad you're here, and I invite you to explore some of my projects.
+
+Feel free!
 <!-- <div align="right"><p> <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif"></img></div> -->
-
+##
+<br><br>
 <div align="center">
   <a href="https://github.com/romeoliveirasantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romeoliveirasantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -35,8 +52,4 @@
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/romário-oliveira-b9022a1b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-
-  ![Snake animation](https://github.com/romeoliveirasantos/romeoliveirasantos/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
