@@ -8,7 +8,7 @@
 * **Age**: 29y
 * **City**: São Paulo - SP
 * **Country**: Brazil
-* **Stack**: Javascript - ReactJs - Bootstrap - NodeJs - MongoDB
+* **Stack**: Javascript - ReactJs - Bulma - NodeJs - MongoDB
 
 ## Curiosities about me:
 
