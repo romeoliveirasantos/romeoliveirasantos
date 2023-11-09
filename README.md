@@ -30,8 +30,13 @@
 I'm glad you're here, and I invite you to explore some of my projects.
 
 Feel free!
+
 <!-- <div align="right"><p> <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif"></img></div> -->
 ##
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/romário-oliveira-b9022a1b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeoliveirasantos&layout=compact&langs_count=7&theme=midnight-purple"/>
@@ -53,6 +58,4 @@ Feel free!
 </div>
   <br>
  
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/romário-oliveira-b9022a1b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
