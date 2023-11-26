@@ -19,7 +19,7 @@
 
 * I currently live in São Paulo - SP, work as a back-end developer since may/2023, and am pursuing a degree in systems analysis and development.
 
-* I'm 29 years old, originally from Esplanada - Bahia, but I've been living in São Paulo for over 24 years.
+* Originally from Esplanada - Bahia, but I've been living in São Paulo for over 24 years.
 
 * I love PixelArt, and my major life goal is to create a PixelArt game. I'm studying for that...
   
