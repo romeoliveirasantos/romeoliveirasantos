@@ -1,14 +1,12 @@
 <!-- <h1 align="center">Console.log("Hello, World!")</h1> -->
 <!-- <h1 align="center">Console.WriteLine("Hello, World!")</h1> -->
-<h1 align="center">print("Hello, World!")</h1> 
+<!--<h1 align="center">print("Hello, World!")</h1>  -->
 
 
 ## Hi 👋, I'm **Romário Oliveira** and you're in my space on Github!
 
 ## Personal information:
 * **Name**: Romário Oliveira
-* **Age**: 30y
-* **City**: São Paulo - SP
 * **Country**: Brazil
 * **Stacks**: <br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,mongodb,python,mysql)](https://skillicons.dev)
@@ -20,21 +18,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)-->
 
-## Curiosities about me:
-
-* I currently live in São Paulo - SP, work as a back-end developer since may/2023, and am pursuing a degree in systems analysis and development.
-
-* Originally from Esplanada - Bahia, but I've been living in São Paulo for over 24 years.
-
-* I love PixelArt, and my major life goal is to create a PixelArt game. I'm studying for that...
-  
-* I am learning C# to develop games in the Unity engine.
-
-* Furthermore, I'm studying C# and its frameworks.<br><br>
-
-I'm glad you're here, and I invite you to explore some of my projects.
-
-Feel free!
 
 <!-- <div align="right"><p> <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif"></img></div> -->
 ##
