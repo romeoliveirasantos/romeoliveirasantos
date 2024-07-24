@@ -8,7 +8,7 @@
 ## Personal information:
 * **Name**: Romário Oliveira
 * **Country**: Brazil
-* **Currently working**: At <a target="_blank" href="https://www.zenvia.com" >Zenvia</a> as a back-end developer <br><br>
+* **Currently working**: At <a target="_blank" href="https://www.zenvia.com" >Zenvia</a> as a back-end developer since 2021.<br><br>
 * **Stacks**: <br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,mongodb,python,mysql)](https://skillicons.dev)
 <!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
