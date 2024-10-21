@@ -8,7 +8,6 @@
 ## Personal information:
 * **Name**: Romário Oliveira
 * **Country**: Brazil
-* **Currently working**: At <a target="_blank" href="https://www.zenvia.com" >Zenvia</a> as a back-end developer.<br><br>
 * **Stacks**: <br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,mongodb,python)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,typescript,react,bootstrap,postgres)](https://skillicons.dev) -->
