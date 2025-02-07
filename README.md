@@ -9,7 +9,7 @@
 * **Name**: Romário Oliveira
 * **Country**: Brazil
 * **Stacks**: <br><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,mongodb,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,mongodb,python)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,typescript,react,bootstrap,postgres)](https://skillicons.dev) -->
 
 <!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
